@@ -1,0 +1,9 @@
+# Documentos fuente confidenciales — NUNCA versionar
+*.docx
+*.xlsx
+*.xls
+*.pdf
+~$*
+.claude/
+.DS_Store
+Thumbs.db
