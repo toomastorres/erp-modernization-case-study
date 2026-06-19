@@ -80,3 +80,10 @@ Costo mensual propuesto (D365 BC + M365 en la nube)         ██████�
 
 Análisis funcional · relevamiento de procesos · evaluación de proveedores (RFP/scoring) ·
 modelado financiero / TCO–ROI · estrategia cloud · comunicación con dirección (business case).
+
+## ♻️ ¿A quién le sirve / cómo reutilizarlo?
+
+Sirve como **plantilla de business case** para evaluar y justificar un cambio de ERP/infraestructura ante la
+dirección. Reutilizá la estructura: diagnóstico → criterios ponderados → matriz de decisión → modelo TCO →
+recomendación. Cambiá proveedores, pesos y números por los de tu caso. Útil para **analistas funcionales,
+IT y áreas de administración** que tengan que fundamentar una inversión con datos.
